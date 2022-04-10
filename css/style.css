@@ -59,6 +59,11 @@
   color: #da3347;
   font-size: 1.3em;
 }
+#main-navbar ul li a:hover {
+  background-color: #5e9da4;
+  color: yellow;
+  text-transform: uppercase;
+ }
 #wrapper {
   width: 100%;
   margin: 5px auto;
