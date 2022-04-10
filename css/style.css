@@ -59,11 +59,7 @@
   color: #da3347;
   font-size: 1.3em;
 }
-#main-navbar ul li a:hover {
-  background-color: #5e9da4;
-  color: yellow;
-  text-transform: uppercase;
- }
+
 #wrapper {
   width: 100%;
   margin: 5px auto;
@@ -254,6 +250,11 @@ p {
   }
   #main-navbar #onpage {
   background-color: #3ca98c;
+  }
+  #main-navbar ul li a:hover {
+  background-color: #5e9da4;
+  color: yellow;
+  text-transform: uppercase;
   }
   #main-header{
     /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#b4e391+0,61c419+30,61c419+64,b4e391+100 */
