@@ -1,0 +1,252 @@
+#main-navbar {
+  background-color: rgb(160, 20, 79);
+  overflow: hidden;
+}
+#navbar-container {
+  width: 100%;
+  text-align: center;
+}
+#main-navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: inline-block;
+  vertical-align: top;
+}
+#main-navbar ul li {
+  float: left;
+}
+#main-navbar ul li a {
+  display: block;
+  padding: 10px 20px;
+  color: white;
+  font-family: sans-serif,cursive;
+  text-decoration: none;
+}
+#main-navbar ul li a:hover {
+  background-color: #cb276c;
+  color: yellow;
+  text-transform: uppercase;
+}
+#main-navbar #onpage {
+  background-color: #da3347;
+}
+#main-header {
+  /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#ffe01b+0,ffd905+50,ffff88+100 */
+  background: rgb(255, 224, 27);
+  /* Old browsers */
+  background: -moz-linear-gradient(top, rgba(255, 224, 27, 1) 0%, rgba(255, 217, 5, 1) 50%, rgba(255, 255, 136, 1) 100%);
+  /* FF3.6-15 */
+  background: -webkit-linear-gradient(top, rgba(255, 224, 27, 1) 0%, rgba(255, 217, 5, 1) 50%, rgba(255, 255, 136, 1) 100%);
+  /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to bottom, rgba(255, 224, 27, 1) 0%, rgba(255, 217, 5, 1) 50%, rgba(255, 255, 136, 1) 100%);
+  /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffe01b', endColorstr='#ffff88', GradientType=0);
+  /* IE6-9 */
+  margin: 5px 0 0 0;
+  height: 80px;
+  width: 100%;
+}
+.header-content {
+  text-align: center;
+  margin: 0;
+  padding: 25px;
+  color: #272935;
+  font-family: 'Comfortaa', cursive, sans-serif;
+  font-size: 2em;
+}
+#htitle {
+  color: #da3347;
+  font-size: 1.3em;
+}
+#wrapper {
+  width: 960px;
+  margin: 5px auto;
+  outline: #ffd700 3px solid;
+  background-color: rgba(241, 237, 225, 0.6);
+}
+#wrapper2{
+  width: 850px;
+  height: 560px;
+  background-color: #c00;
+  margin: 0 auto;
+  overflow: hidden;
+}
+#canvas{
+  width: 780px;
+  height: 500px;
+  background-color: #ccc;
+  margin: 30px auto;
+}
+main {
+  width: 100%;
+  float: left;
+  background-color: #e1c3cf;
+}
+h2 {
+  font-family: 'Hubballi', cursive, sans-serif;
+  margin: 5px 5px 0 5px;
+  background-color: #3ca98c;
+  font-size: 1.6em;
+  padding: 3px 5px;
+  border-radius: 5px;
+  text-align: center;
+}
+#target {
+  float: left;
+  width: 22.5%;
+  margin: 10px 0 0 2%;
+  outline: 4px solid #025647;
+}
+.ul1 ul {
+  list-style-type: circle;
+  font-family: 'Fredoka', sans-serif;
+  color: #272935;
+}
+.ul1 ul li {
+  border: 1px dotted #3ca98c;
+  margin: 5px 5px 5px 0;
+  padding: 3px 0 3px 3px;
+  background-color: #5e9da4;
+  border-radius: 5px;
+}
+#target img {
+  width: 100%;
+}
+#target2 {
+  float: left;
+  width: 47%;
+  margin: 10px 2%;
+  outline: 3px solid #ff8c00;
+}
+section {
+  margin: 2px 5px;
+  background-color: #83c4b1;
+}
+h3 {
+  font-family: 'Hubballi', cursive, sans-serif;
+  font-weight: bold;
+  text-align: center;
+  color: yellow;
+  font-size: 1.3em;
+  margin: 8px;
+}
+p {
+  font-family: 'Hubballi', cursive, sans-serif;
+  text-align: justify;
+  text-indent: 1em;
+  margin: 5px;
+}
+#news {
+  float: left;
+  width: 22.5%;
+  margin: 10px 2% 0 0;
+  outline: 2px solid #dc143c;
+}
+#news img {
+  width: 100%;
+}
+#news iframe {
+  width: 100%;
+}
+#target3 {
+  float: left;
+  width: 52%;
+  background-image: url(../images/pexels.jpeg);
+  background-size: 100% 100%;
+  margin: 0 3% 0 5%;
+  outline: 2px dashed #0053ae;
+}
+#extras {
+  float: left;
+  width: 35%;
+  margin: 0 5% 0 0;
+  background-color: #FFA500;
+  outline: 2px dashed #dd0009;
+}
+#extras img {
+  width: 100%;
+}
+#extras iframe {
+  width: 100%;
+  height: 200px;
+}
+#target4 {
+  float: left;
+  width: 350px;
+  margin: 10px 20px;
+  outline: 2px dashed #dd0009;
+  background-color: #ff8c00;
+}
+.tb1 table {
+  width: 340px;
+  margin: 0 5px;
+  text-align: center;
+  border: 1.5px dashed white;
+  background-color: #ffa500;
+  border-collapse: collapse;
+  font-size: 1em;
+  font-family: 'Comfortaa', cursive, sans-serif;
+}
+.tb1 table tr {
+  border: 1px dotted white;
+}
+.tb1 table td {
+  border: 1px dotted white;
+}
+.wd1 {
+  color: #dc143c;
+  font-size: 1.1em;
+  font-weight: bold;
+}
+#extras2 {
+  float: left;
+  width: 550px;
+  margin: 10px 20px 0 0;
+  outline: 2px dashed #dd0009;
+  background-color: #ff8c00;
+}
+.sc1 {
+  border: 1.5px dotted #272935;
+  margin: 5px;
+  background-color: #ffa500;
+}
+#play {
+  clear: both;
+  width: 920px;
+  margin: 5px 20px;
+  outline: 2px dashed #dd0009;
+  background-color: #ff8c00;
+}
+#box1 {
+  clear: both;
+  box-sizing: content-box;
+  float: left;
+  width: 450px;
+  height: 300px;
+  margin: 5px;
+  border: 1px;
+  overflow: hidden;
+}
+#box1 img {
+  width: 100%;
+}
+#box2 {
+  box-sizing: content-box;
+  float: left;
+  width: 450px;
+  height: 300px;
+  margin: 5px;
+  border: 1px;
+  overflow: hidden;
+}
+#box2 img {
+  width: 100%;
+}
+#footer {
+  clear: both;
+  color: white;
+  padding: 5px;
+  background-color: #4c718b;
+  height: 30px;
+}
