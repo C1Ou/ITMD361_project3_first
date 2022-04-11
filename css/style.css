@@ -46,12 +46,14 @@
   margin: 5px 0 0 0;
   height: 80px;
   width: 100%;
+  color: #272935;
+
 }
 .header-content {
   text-align: center;
   margin: 0;
   padding: 25px;
-  color: #272935;
+  
   font-family: 'Comfortaa', cursive, sans-serif;
   font-size: 2em;
 }
