@@ -171,9 +171,9 @@ p {
 #extras img {
   width: 100%;
 }
-#extras iframe {
+#extras video {
   width: 100%;
-  height: 200px;
+  height: auto;
 }
 #target4 {
   float: left;
