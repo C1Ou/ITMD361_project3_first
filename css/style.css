@@ -149,8 +149,9 @@ p {
 #news img {
   width: 100%;
 }
-#news iframe {
+#news video {
   width: 100%;
+  height: auto;
 }
 #target3 {
   float: left;
